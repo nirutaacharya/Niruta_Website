@@ -699,6 +699,15 @@ body {
     border-bottom: 1px solid var(--glass-border);
     color: var(--text-secondary);
     gap: 10px;
+    overflow: hidden;
+}
+
+.project-media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
 }
 
 .project-media i {
@@ -904,10 +913,10 @@ body {
                         <a href="assets/niruta_cv.pdf" target="_blank" class="btn secondary-btn">Download CV</a>
                     </div>
                     <div class="social-links">
-                        <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                        <a href="#" aria-label="GitHub"><i class="fab fa-github"></i></a>
-                        <a href="#" aria-label="TikTok"><i class="fab fa-tiktok"></i></a>
-                        <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+                        <a href="https://www.linkedin.com/in/niruta-acharya-6266822ba/" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                        <a href="github.com/nirutaacharya" aria-label="GitHub"><i class="fab fa-github"></i></a>
+                        <a href="https://tiktok.com/@niruta.codes" aria-label="TikTok"><i class="fab fa-tiktok"></i></a>
+                        <a href="https://www.youtube.com/@fluttergirl123" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
                     </div>
                 </div>
                 <div class="image-content">
@@ -1015,9 +1024,8 @@ body {
             <h2 class="section-title">My Projects</h2>
             <div class="projects-grid">
                 <div class="project-card glass-panel">
-                    <div class="project-media project-image-placeholder">
-                        <i class="fas fa-image"></i>
-                        <span>Project Image</span>
+                    <div class="project-media">
+                        <img src="assets/projects/luvlines_app.png" alt="Luvlines App">
                     </div>
                     <div class="project-info">
                         <!-- <span class="date">Jan 2026 - Apr 2026</span> -->
