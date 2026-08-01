@@ -1,0 +1,110 @@
+Niruta Acharya 
+Flutter Developer 
+Kathmandu, Nepal 
+(+977) 9766248645 
+nirutaacharya79@gmail.com      LinkedIn      GitHub      Portfolio     TikTok     YouTube 
+ 
+Passionate and dedicated Flutter Developer with hands-on experience in building responsive and user-friendly cross-
+platform mobile applications. Skilled in Dart, Flutter, Firebase, UI/UX design, and clean code architecture. Currently 
+pursuing BSc.CSIT (6th Semester) with strong involvement in tech communities and continuous self-learning. 
+I enjoy turning ideas into real, functional, and aesthetic digital products. 
+ 
+PROFESSIONAL EXPERIENCE  
+ 
+Flutter Developer Intern 
+Xavirgin (OPC) Private Limited Link 
+ Assisted in developing cross-platform mobile applications using Flutter. 
+ Built responsive and user-friendly mobile interfaces. 
+ Collaborated with the development team on assigned tasks. 
+ Participated in bug fixing, testing, and performance optimization. 
+ Used Git & GitHub for version control and project collaboration. 
+ 
+INDEPENDENT PROJECTS                                                                                                                                                                                                         
+Flutter Developer                                                                                         
+Luvlines – Flirt Messages (Mobile App) Link 
+Jan 2026 – Apr 2026  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Aug 2025 - Present                                                                                                                                         
+ Built a fully functional flirt-message application with 1000+ flirt messages. 
+ Implemented Line of the Day feature to show a unique daily flirt message. 
+ Added Favourite, Copy, Save, and Share functionality for smooth user experience. 
+ Developed a Random Flirt Message Generator for fun and instant inspiration. 
+ Added dual-language support (English & Nepali) for wider audiences. 
+ Integrated dynamic Light/Dark Mode for better accessibility and user comfort. 
+ Designed clean UI, optimized navigation, and delivered an engaging user-friendly experience and published 
+on Google Play Store. 
+ Built using Flutter, Provider and SharedPreferences for scalable and better performance. 
+ 
+Quiz App 
+Dart, Flutter Link 
+ Developed a fully functional quiz application with question navigation, scoring, and results. 
+ Strengthened understanding of UI design and state management. 
+ 
+ToDo App 
+Dart, Flutter Link  
+ Created a task management app with add, update, and delete functionality. 
+ Implemented simple yet effective UI for productivity.  
+ 
+EDUCATION  
+ 
+TRIBHUVAN UNIVERSITY 
+Bachelor of Science in Computer Science and Information Technology (BSc.CSIT),  
+Mahendra Multiple Campus, Dang, Nepal 
+2023 - Present 
+6th Semester 
+ 
+CERTIFICATIONS  
+ 
+Flutter Training & Mobile App Development (Workshop) – Link                         
+JagaByte Technologies 
+    •   Successfully participated in a 3-day Flutter Training and Mobile App Development  
+Workshop.    
+   •    Strengthened practical knowledge of Flutter fundamentals, mobile app development,       
+and UI implementation. 
+ 
+Flutter Mobile App Development (Workshop) – Link 
+Computer Science Association, MMC Dang 
+ Completed an intensive 7-day Flutter Development Workshop. 
+ Gained hands-on experience in Dart fundamentals, UI building, layouts, and creating 
+functional mobile apps. 
+                   Jul 2026                                                                                           
+ 
+ 
+ 
+ 
+ 
+Jul 2024 – Aug 2024 
+ 
+ 
+ACHIEVEMENTS AND ACTIVITIES  
+ 
+Flutter UI Designer & Developer (Self-Learning Challenge) – Link                                 
+Computer Science Association, MMC Dang                                                                                Jun 2025 – Jul 2025 
+ Completed a 30 Days Flutter UI Challenge, designing and developing 30 unique modern UI Screens. 
+ Posted everyday video on social media (TikTok, Youtube). 
+ Improved layout structing, statemanagement, animations, and reusable widget design. 
+ Built a complete mobile app “Luvlines – Flirt Messages” and published on Google Play Store at the end of the 
+challenge. 
+  
+ 
+ADDITIONAL SKILLS  
+ 
+  Programming Languages: Dart, C, C++  
+  Framework & State Management: Flutter, Provider  
+  Backend & Database: Firebase, SharedPreferences  
+  API Integration: REST APIs  
+  Version Control: Git, GitHub  
+  Tools: Android Studio, VS Code  
+  Design Tools: Figma, Canva, Adobe Photoshop  
+  Soft Skills: Problem Solving, Team Collaboration, Communication, Time Management, Adaptability  
+  Other: UI/UX Design, Responsive Mobile App Development, Play Store Deployment 
+ 
+ 
